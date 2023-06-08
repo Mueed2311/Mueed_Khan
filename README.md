@@ -1,2 +1,1 @@
-# Mueed_Khan
-AI_Assignment2_26488
+# Mueed_Khan_26488
